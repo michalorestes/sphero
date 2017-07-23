@@ -5,3 +5,4 @@ Current version includes:
 - Player controls (moving left/right, jump) 
 - Traps 
 - Enemy character 
+- Initial scene 
